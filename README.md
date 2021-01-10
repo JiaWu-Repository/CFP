@@ -25,7 +25,7 @@ Potential topics include but are not limited to the following:
 * Network dynamics
 * Heterogeneous social network analysis Subgraph structure learning
 
-### Ref: Deep Learning for Community Detection: Progress, Challenges and Opportunities, https://arxiv.org/abs/2005.08225
+### Ref: Deep Learning for Community Detection: Progress, Challenges and Opportunities, Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence Survey track. Pages 4981-4987. https://doi.org/10.24963/ijcai.2020/693 [PDF: https://www.ijcai.org/Proceedings/2020/0693.pdf]
 
 Authors can submit their manuscripts through the Manuscript Tracking System at https://mts.hindawi.com/submit/journals/complexity/dsrlc/.
 Papers are published upon acceptance, regardless of the Special Issue publication date.  
